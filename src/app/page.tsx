@@ -12,8 +12,8 @@ export default function Home() {
           <ul className="flex flex-col gap-4">
             <li>
               <a href="/blog/claude-vs-gemini-gpt" className="block bg-[#18181b] rounded-lg p-5 shadow-lg transition hover:bg-[#222] text-white" style={{backdropFilter: 'blur(4px)'}}>
-                <h3 className="text-lg font-bold mb-1">Claude 4 vs Gemini 2.5 Pro vs GPT-4o: A Developer's Perspective</h3>
-                <p className="text-base">Comparing the three major AI models from a developer's perspective - their strengths, weaknesses, and real-world performance.</p>
+                <h3 className="text-lg font-bold mb-1">Claude 4 vs Gemini 2.5 Pro vs GPT-4o: A Developer&apos;s Perspective</h3>
+                <p className="text-base">Comparing the three major AI models from a developer&apos;s perspective - their strengths, weaknesses, and real-world performance.</p>
               </a>
             </li>
             <li>
